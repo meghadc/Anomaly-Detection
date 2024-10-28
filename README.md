@@ -48,7 +48,7 @@ Model performance is measured using the following metrics:
 These metrics help in evaluating and refining the detection models effectively.
 
 ## Results
-The results section highlights the key findings and model performance metrics obtained during the project. Summary of results will include metrics like accuracy, precision, recall, and F1-score, depending on the chosen model and dataset.
+The results section highlights the key findings and model performance metrics obtained during the project. Summary of results will include metrics like accuracy, precision, recall, and F1-score.
 
 ## Usage
 To execute the project:
